@@ -10,7 +10,7 @@ A C/C++ DBC file parser based on `boost.spirit`. This library is designed for de
 * [cantools](https://github.com/eerimoq/cantools) like decoding
 * [KCD](https://github.com/julietkilo/kcd) file format support
 
-
+*
 # Getting started
 ## Build & Install
 ```
